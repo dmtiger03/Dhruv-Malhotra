@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Real-time weather intelligence with global city search, current conditions, 7-day forecast cards, interactive charts, AI-driven recommendations, and robust error handling.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
